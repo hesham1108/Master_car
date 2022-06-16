@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733996632955",
+    "project_id": "master-car-4a20d",
+    "storage_bucket": "master-car-4a20d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733996632955:android:1bdb1b7221dd0299830bde",
+        "android_client_info": {
+          "package_name": "com.tabibsoft.hadeer.master_car_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733996632955-ge8od6sa8bi2s790mfcs84fgeu969bl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa68z3t4t7FVGMaNEGC_bX7Bi0Xtuq5oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733996632955-ge8od6sa8bi2s790mfcs84fgeu969bl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
